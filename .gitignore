@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+customer-management/backups/
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite-journal
+~$*.xlsx
