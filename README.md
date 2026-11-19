@@ -11,6 +11,11 @@ Customer and membership management files for 45 prospective automotive businesse
 - [Buyer discovery questions and outreach drafts](customer-management/buyer-discovery-and-outreach.md).
 - [Pipeline playbook](customer-management/pipeline-playbook.md).
 - [Database documentation](customer-management/README.md).
+- [Social media and marketing materials](marketing/README.md): company profiles, six post drafts, a posting schedule, marketing strategy, and the generated graphic's caption and design brief.
+
+## Marketing context
+
+The company information supplied for the marketing work describes Saif Industries LLC as a surplus military and aviation parts sourcing and supply business. The marketing materials use that description. The existing automotive prospect database and CNC planning documents are earlier work; they have not been revised or validated against this company description.
 
 ## Current status
 
