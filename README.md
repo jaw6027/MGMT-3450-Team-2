@@ -4,6 +4,7 @@ Customer and membership management files for 45 prospective automotive businesse
 
 ## Start here
 
+- [Saif Industries website](website/README.md): responsive aviation parts website with an email-based quote inquiry flow. Run it from `website/` with `npm install` and `npm run dev`.
 - [Excel workbook](customer-management/saif_customer_management.xlsx): editable company directory, qualification and evidence sheets, sales pipeline, dashboard, and setup tasks.
 - [SQLite database](customer-management/saif_customer_management.sqlite): relational version of the company and sales records.
 - [Company CSV](customer-management/companies.csv): initial company directory for import.
