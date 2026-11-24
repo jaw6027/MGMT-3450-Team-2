@@ -1,0 +1,6 @@
+Open instagram-post-mockups-v3.html to see the two standalone Instagram post mockups.
+instagram-post-mockups-v3.jpg is the rendered preview for your group presentation.
+instagram-feed-ads-and-strategy.html contains the campaign strategy.
+The assets folder contains the two image-only ad creatives for separate use.
+
+These are unpublished student mockups. The handle is proposed, all interactions remain local, and imagery is AI-generated and illustrative. No real engagement figures are shown.

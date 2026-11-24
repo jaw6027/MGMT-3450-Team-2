@@ -1,0 +1,61 @@
+SAIF INDUSTRIES — INSTAGRAM FEED MARKETING STRATEGY
+Campaign: A closer look at aerospace
+Prepared for MGMT 3450 Team 2. Unpublished student-project concepts.
+
+STRATEGIC ROLE
+Use Instagram to make SAIF recognizable and direct interested business buyers toward a sourcing conversation. The audience is aerospace purchasers and relevant industry professionals, not everyone who likes aircraft. This complements the LinkedIn campaign, which can carry a more detailed business introduction. Investor or strategic-partner inquiries may occur, but these Instagram ads do not advertise an investment opportunity.
+
+POSITIONING
+A family-owned surplus military and aviation parts sourcing business. Let aerospace imagery earn the first glance; use the caption to explain the service and next action. Visuals must not imply that SAIF manufactures aircraft, owns the depicted equipment, or has stock of every illustrated component.
+
+TWO FEED ADS
+1. Discovery: Behind the aircraft. A world of parts.
+Hook the viewer with a recognizable aircraft detail, then introduce SAIF and lead to the company overview. The value is recognition and relevant site visits, with inquiry progression monitored.
+2. Consideration: Have a part number? Start with SAIF.
+Show a naturally styled components scene and explain what to include in an inquiry. Lead directly to the website contact section. The business outcome is a qualified parts inquiry.
+
+FEED-FIRST DESIGN
+Create portrait 4:5 concepts with an image-led composition, one short on-image headline, forest-green brand accents, and readable copy. The preview places each image inside a scrolling mobile-style feed with the company avatar, Sponsored label, caption, and Learn More action. The image files themselves contain none of that interface, so they can be uploaded independently.
+The two new images use built-in AI generation with ordinary lighting, believable materials, and restrained editorial typography. Disclosure appears in the creative and caption. They are illustrative concepts, not evidence of actual SAIF facilities, equipment, or inventory.
+Delivered dimensions and file sizes are recorded in verification.json. Recheck current placement requirements and actual crops in Ads Manager before a live upload. Meta’s public placement-spec page required login during research; current detailed size limits were not independently verified from that page.
+
+AUDIENCE PLAN
+Start with U.S. geography as a proposed test market and validate customer fit with SAIF. Use available aviation or aerospace-related audience signals if present; do not assume that particular job titles or interests can be selected. Interest targeting does not verify a person’s occupation or purchasing authority. The phrase part number and the sourcing requirements in the ad help distinguish buyers from general enthusiasts.
+Use an existing eligible engaged or website audience for the consideration ad only if the account has enough audience and the feature is available. Do not assume a new class-project account can retarget immediately. Without that audience, test consideration copy sequentially against the same prospecting audience.
+
+CAMPAIGN AND DESTINATIONS
+Proposed first test: a Traffic campaign directing viewers to the website, with landing-page-view optimization where supported and configured. Confirm current settings in Ads Manager. Keep the two creatives labeled by purpose; they are not a clean A/B test because their offers and destinations differ.
+Discovery URL: existing website company overview.
+Consideration URL: existing website contact section.
+Use the sponsored Learn More button. Do not rely on viewers copying a URL from a caption or searching for a link in the bio. Captions identify the action explicitly. UTMs distinguish the two ads in campaign-data.json.
+Once reliable website lead events and enough data exist, assess an available lead-focused campaign configuration. Website visits are an initial learning goal; qualified inquiries remain the business outcome.
+
+30-DAY TEST
+Week 1: Confirm company facts, buyer fit, response owner, profile details, and destination usability. Populate the profile with the prepared posts so an ad click-through sees a coherent brand. Prepare tracking and confirm the website contact route works.
+Week 2: Test the discovery ad with a clearly capped budget. Inspect relevant website sessions, not only reach or likes. Do not immediately spend across many tiny audience segments.
+Week 3: Test the sourcing ad with an eligible warm audience or sequentially with the same prospecting audience. Test one alternate first sentence within an ad while keeping image, audience, and destination stable.
+Week 4: Assess inquiry quality and follow-up. If viewers engage but never inquire, review audience relevance and the website contact path before increasing spend. Report learning honestly; a small pilot is not statistically conclusive.
+
+OPTIONAL BUDGET SCENARIO — NOTHING SPENT
+The class deliverable costs $0 in ad media. An optional $300 company pilot could reserve $200 for discovery and $100 for the sourcing test, subject to current account minimums and delivery. These are proposed total allocations, not expected platform prices or performance forecasts. If the budget fragments delivery too much, run the tests sequentially. No live campaign or payment has been set up.
+
+MEASUREMENT
+Track by ad: spend, reach, impressions, outbound clicks, landing-page sessions, completed inquiries, qualified inquiries, and quotes or meetings. Saves and profile visits are supporting indicators, not proof of purchasing intent.
+Qualified inquiry: a relevant business, usable contact details, a part number or clearly described sourcing requirement, and enough context for SAIF to assess fit.
+Outbound CTR = outbound clicks / impressions. Inquiry conversion rate = completed inquiries / attributable landing-page sessions. Cost per qualified inquiry = spend / qualified inquiries; if there are none, report no qualified inquiries rather than zero cost. Do not sum reach across ads as unique people without deduplication.
+Ask the team to record how email and phone contacts found SAIF. UTM tags alone cannot attribute every offline conversation. Establish a baseline before setting numerical growth targets.
+
+ORGANIC SUPPORT
+Publish two or three useful posts weekly if the company adopts the plan: sourcing tips, company capabilities, and a direct next step. Reuse the existing brand system, but avoid turning every post into an advertisement. Invite the company to supply real work photos for future updates. Continue to distinguish generated concepts from actual product images.
+
+GROUP ROLES
+Research: buyer-fit assumptions and company facts.
+Creative: the two ads, brand consistency, and placement crops.
+Copy: captions, first-line variants, and destination alignment.
+Measurement: tracking and an evidence-based review of lead quality.
+
+SOURCES AND LIMITATIONS
+Company: https://www.saifindustries.com/
+Meta’s public course supports goal-led creative, a clear action, audience selection, budgeting, and measurement: https://eventsmanager.facebook.com/business/learn/lessons/create-facebook-ads-from-facebook-page
+Placement-spec reference for live rechecking: https://www.facebook.com/business/ads-guide/update/image/instagram-feed (login-restricted during research).
+The audience, sequence, budget, and proposed evaluation rules are project recommendations, not promises from SAIF or Meta. Reviewed November 24, 2026.

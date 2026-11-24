@@ -1,0 +1,5 @@
+Generation method: built-in image generation tool.
+New campaign: six distinct AI-generated aerospace marketing concepts, labeled on-image and in captions. They do not depict actual SAIF inventory, aircraft, staff, shipments, or facilities.
+Original six typographic posts remain available.
+Brand palette, company information, and profile logo: https://www.saifindustries.com/
+Creative brief: natural editorial photography, ordinary available light, believable materials, modest typography, white space, and restrained forest-green accents. No floating parts, dramatic glow, CGI sheen, or fictional business claims. Full prompts accompany the package.

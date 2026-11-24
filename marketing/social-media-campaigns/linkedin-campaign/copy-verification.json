@@ -1,0 +1,16 @@
+[
+  {
+    "id": "customer",
+    "introCharacters": 114,
+    "headlineCharacters": 41,
+    "alternateIntroCharacters": 107,
+    "alternateHeadlineCharacters": 40
+  },
+  {
+    "id": "investor",
+    "introCharacters": 120,
+    "headlineCharacters": 40,
+    "alternateIntroCharacters": 116,
+    "alternateHeadlineCharacters": 41
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "campaign": "A closer look at aerospace",
+  "status": "Unpublished class-project proposal",
+  "ads": [
+    {
+      "id": "01-awareness",
+      "name": "Stop and discover",
+      "stage": "Discovery",
+      "image": "native-01-awareness.png",
+      "hook": "There’s a parts story behind every aircraft. ✈️",
+      "caption": "Meet SAIF Industries: a family-owned source for surplus military and aviation parts since 1999.\n\nTake a closer look at aerospace sourcing. Tap Learn More to explore what we do.\n\n#SAIFIndustries #Aerospace #AviationParts\n\nStudent concept. AI-generated illustrative imagery; not an actual SAIF aircraft, engine, or facility.",
+      "alternateHook": "Look beyond the aircraft. Get to know the parts business behind it.",
+      "headline": "Meet SAIF Industries",
+      "cta": "Learn More",
+      "destination": "https://www.saifindustries.com/?utm_source=instagram&utm_medium=paid_social&utm_campaign=saif_ig_discovery&utm_content=engine_visual#about",
+      "alt": "A naturally lit conceptual aircraft wing and jet engine in a hangar with a restrained SAIF headline. AI-generated imagery.",
+      "audience": "Prospective U.S. aerospace-industry customers. Test available aviation, aircraft maintenance, or aerospace-related audience signals only if present in Ads Manager; interests indicate possible relevance, not verified purchasing authority.",
+      "goal": "Introduce SAIF and attract relevant website visits.",
+      "reason": "Recognizable aircraft detail catches attention; a short curiosity-led hook connects it to SAIF’s parts-sourcing role.",
+      "measurement": "Landing-page visits and engagement from relevant people. Follow through to inquiries; likes alone do not establish buyer interest."
+    },
+    {
+      "id": "02-sourcing",
+      "name": "Start a sourcing conversation",
+      "stage": "Consideration",
+      "image": "native-02-sourcing.png",
+      "hook": "Have a part number? Start with SAIF.",
+      "caption": "Looking for a hard-to-find aviation component? Share the part number, quantity, and condition or documentation requirements.\n\nTap Learn More to start an inquiry through our website. Availability and quote details are confirmed by the team.\n\n#PartsSourcing #AviationParts #AerospaceSupplyChain\n\nStudent concept. AI-generated illustrative components; not verified SAIF inventory.",
+      "alternateHook": "Your next aerospace sourcing inquiry starts with the details.",
+      "headline": "Start a parts inquiry",
+      "cta": "Learn More",
+      "destination": "https://www.saifindustries.com/?utm_source=instagram&utm_medium=paid_social&utm_campaign=saif_ig_sourcing&utm_content=parts_tray#contact",
+      "alt": "Generic aerospace-style connectors and machined components in a forest-green parts tray, with SAIF sourcing copy. AI-generated illustration.",
+      "audience": "Relevant prospects who already understand SAIF’s offer. An eligible engaged-audience or website-audience test is optional if available; otherwise test this message separately with the same prospecting audience.",
+      "goal": "Generate qualified business inquiries about parts sourcing.",
+      "reason": "Tactile component detail creates visual interest while the headline qualifies viewers who have an actual sourcing need.",
+      "measurement": "Qualified inquiries, follow-up conversations, and quote progression. Record relevant part numbers and business context rather than treating every click as a lead."
+    }
+  ]
+}
