@@ -1,0 +1,40 @@
+{
+  "name": "Stocked. Sourced. Connected.",
+  "status": "Unpublished student-project campaign",
+  "ads": [
+    {
+      "id": "customer",
+      "audience": "Business customers",
+      "purpose": "Generate qualified aerospace parts sourcing inquiries",
+      "image": "customer-ad.png",
+      "intro": "Hard-to-find aviation parts? Start with SAIF. Share your part number and requirements to begin a sourcing inquiry.",
+      "headline": "Find your next aerospace sourcing partner",
+      "description": "Surplus military and aviation parts sourcing.",
+      "cta": "Learn More",
+      "destination": "https://www.saifindustries.com/?utm_source=linkedin&utm_medium=paid_social&utm_campaign=saif_customer_pilot&utm_content=parts_ad#contact",
+      "alternateIntro": "Have a part number? Bring it to SAIF. Start a conversation about your aviation parts sourcing requirements.",
+      "alternateHeadline": "Hard-to-find aviation parts? Start here.",
+      "alt": "Conceptual natural-light aerospace components on a workbench with SAIF branding. AI-generated imagery, not actual verified inventory.",
+      "target": "U.S. aviation maintenance and repair businesses, aerospace parts distributors, and relevant procurement teams. Suggested role families: purchasing, procurement, supply chain, and operations. Validate inventory fit with SAIF first.",
+      "success": "Qualified sourcing inquiries containing a company, part number, quantity, and usable contact details. Track quote progression separately.",
+      "visualNote": "Built-in AI-generated conceptual imagery; disclosure appears on the creative."
+    },
+    {
+      "id": "investor",
+      "audience": "Potential investors & strategic partners",
+      "purpose": "Introduce the company and encourage informed business conversations",
+      "image": "investor-ad.png",
+      "intro": "Meet the business behind aerospace parts sourcing. Explore SAIF Industries, a family-owned supplier established in 1999.",
+      "headline": "Explore SAIF's aerospace supply business",
+      "description": "Company history, capabilities, and operating footprint.",
+      "cta": "Learn More",
+      "destination": "https://www.saifindustries.com/?utm_source=linkedin&utm_medium=paid_social&utm_campaign=saif_partner_pilot&utm_content=company_ad#about",
+      "alternateIntro": "Aerospace supply starts with an operating business. Get to know SAIF Industries and its parts sourcing capabilities.",
+      "alternateHeadline": "Get to know the business behind the parts",
+      "alt": "SAIF's own aerial facility photograph with its history, inventory scale, and facility size in a restrained green and cream layout.",
+      "target": "U.S. aerospace and industrial strategic partners, corporate development teams, and investment professionals with a relevant sector focus. Build a researched list of relevant firms before selecting available role and company filters.",
+      "success": "Relevant company-profile visits followed by qualified investor or strategic-partner conversations. Do not count clicks as investment commitments.",
+      "visualNote": "SAIF website photograph with original typography. Public facts are attributed in the strategy. No investment offer or fundraising status is asserted."
+    }
+  ]
+}

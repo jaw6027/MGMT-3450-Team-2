@@ -1,0 +1,230 @@
+{
+  "baseCommit": "0722b2f6a3dc644e5af3a9b2c1bdc5f0455f3fde",
+  "files": [
+    {
+      "path": "social-media-mockups/index.html",
+      "bytes": 37200
+    },
+    {
+      "path": "social-media-mockups/build.mjs",
+      "bytes": 24668
+    },
+    {
+      "path": "social-media-mockups/create-graphics.ps1",
+      "bytes": 5190
+    },
+    {
+      "path": "social-media-mockups/captions-and-profile-copy.json",
+      "bytes": 23524
+    },
+    {
+      "path": "social-media-mockups/instagram-overrides.json",
+      "bytes": 3962
+    },
+    {
+      "path": "social-media-mockups/profile-copy-and-captions.txt",
+      "bytes": 10891
+    },
+    {
+      "path": "social-media-mockups/original-instagram-captions.txt",
+      "bytes": 1938
+    },
+    {
+      "path": "social-media-mockups/image-sources-v5.txt",
+      "bytes": 650
+    },
+    {
+      "path": "social-media-mockups/image-generation-prompts-v5.txt",
+      "bytes": 3944
+    },
+    {
+      "path": "social-media-mockups/instagram-aerospace-preview-v5.png",
+      "bytes": 2673885
+    },
+    {
+      "path": "linkedin-campaign/linkedin-strategy-and-ads.html",
+      "bytes": 23332
+    },
+    {
+      "path": "linkedin-campaign/build.mjs",
+      "bytes": 14480
+    },
+    {
+      "path": "linkedin-campaign/create-investor-ad.ps1",
+      "bytes": 1976
+    },
+    {
+      "path": "linkedin-campaign/campaign-data.json",
+      "bytes": 3257
+    },
+    {
+      "path": "linkedin-campaign/strategy.txt",
+      "bytes": 7804
+    },
+    {
+      "path": "linkedin-campaign/measurement-template.csv",
+      "bytes": 339
+    },
+    {
+      "path": "linkedin-campaign/image-generation-prompt.txt",
+      "bytes": 1728
+    },
+    {
+      "path": "linkedin-campaign/copy-verification.json",
+      "bytes": 330
+    },
+    {
+      "path": "linkedin-campaign/verification.json",
+      "bytes": 305
+    },
+    {
+      "path": "linkedin-campaign/two-linkedin-ads.png",
+      "bytes": 2280840
+    },
+    {
+      "path": "instagram-campaign/instagram-post-mockups-v3.html",
+      "bytes": 13880
+    },
+    {
+      "path": "instagram-campaign/instagram-post-mockups-v3.jpg",
+      "bytes": 131100
+    },
+    {
+      "path": "instagram-campaign/instagram-feed-ads-and-strategy.html",
+      "bytes": 35380
+    },
+    {
+      "path": "instagram-campaign/instagram-native-feed-v2.html",
+      "bytes": 35380
+    },
+    {
+      "path": "instagram-campaign/build.mjs",
+      "bytes": 21661
+    },
+    {
+      "path": "instagram-campaign/build-posts-v3.mjs",
+      "bytes": 8143
+    },
+    {
+      "path": "instagram-campaign/campaign-data.json",
+      "bytes": 3493
+    },
+    {
+      "path": "instagram-campaign/strategy.txt",
+      "bytes": 7491
+    },
+    {
+      "path": "instagram-campaign/measurement-template.csv",
+      "bytes": 355
+    },
+    {
+      "path": "instagram-campaign/generation-prompts.json",
+      "bytes": 4992
+    },
+    {
+      "path": "instagram-campaign/native-redesign-prompts.json",
+      "bytes": 3014
+    },
+    {
+      "path": "instagram-campaign/verification-native-v2.json",
+      "bytes": 232
+    },
+    {
+      "path": "instagram-campaign/two-instagram-native-ads-v2.png",
+      "bytes": 2082008
+    },
+    {
+      "path": "instagram-campaign/OPEN-FIRST.txt",
+      "bytes": 494
+    },
+    {
+      "path": "social-media-mockups/assets/profile-picture.png",
+      "bytes": 19670
+    },
+    {
+      "path": "social-media-mockups/assets/linkedin-cover.png",
+      "bytes": 21510
+    },
+    {
+      "path": "social-media-mockups/assets/saif-logo-green.svg",
+      "bytes": 17978
+    },
+    {
+      "path": "social-media-mockups/assets/saif-facility-clean.jpg",
+      "bytes": 5923704
+    },
+    {
+      "path": "social-media-mockups/assets/01-introduction.png",
+      "bytes": 49615
+    },
+    {
+      "path": "social-media-mockups/assets/ig-editorial-01-introduction.png",
+      "bytes": 2221922
+    },
+    {
+      "path": "social-media-mockups/assets/02-parts-sourcing.png",
+      "bytes": 46809
+    },
+    {
+      "path": "social-media-mockups/assets/ig-editorial-02-parts-sourcing.png",
+      "bytes": 2078314
+    },
+    {
+      "path": "social-media-mockups/assets/03-quality.png",
+      "bytes": 44443
+    },
+    {
+      "path": "social-media-mockups/assets/ig-editorial-03-quality.png",
+      "bytes": 2144818
+    },
+    {
+      "path": "social-media-mockups/assets/04-facility.png",
+      "bytes": 49291
+    },
+    {
+      "path": "social-media-mockups/assets/ig-editorial-04-facility.png",
+      "bytes": 2187605
+    },
+    {
+      "path": "social-media-mockups/assets/05-global-support.png",
+      "bytes": 49578
+    },
+    {
+      "path": "social-media-mockups/assets/ig-editorial-05-global-support.png",
+      "bytes": 2308878
+    },
+    {
+      "path": "social-media-mockups/assets/06-request-a-quote.png",
+      "bytes": 53453
+    },
+    {
+      "path": "social-media-mockups/assets/ig-editorial-06-request-a-quote.png",
+      "bytes": 2153569
+    },
+    {
+      "path": "linkedin-campaign/assets/customer-ad.png",
+      "bytes": 1975772
+    },
+    {
+      "path": "linkedin-campaign/assets/investor-ad.png",
+      "bytes": 1935459
+    },
+    {
+      "path": "instagram-campaign/assets/native-01-awareness.png",
+      "bytes": 2286177
+    },
+    {
+      "path": "instagram-campaign/assets/native-02-sourcing.png",
+      "bytes": 2344726
+    },
+    {
+      "path": "instagram-campaign/assets/01-awareness.png",
+      "bytes": 2097768
+    },
+    {
+      "path": "instagram-campaign/assets/02-sourcing.png",
+      "bytes": 2074393
+    }
+  ],
+  "embeddedImageReferencesExternalized": 32
+}

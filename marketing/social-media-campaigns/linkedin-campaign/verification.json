@@ -1,0 +1,18 @@
+[
+  {
+    "file": "customer-ad.png",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 1975772,
+    "square": true,
+    "under5MB": true
+  },
+  {
+    "file": "investor-ad.png",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 1935459,
+    "square": true,
+    "under5MB": true
+  }
+]

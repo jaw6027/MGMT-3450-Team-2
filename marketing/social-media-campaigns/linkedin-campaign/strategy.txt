@@ -1,0 +1,64 @@
+SAIF INDUSTRIES — LINKEDIN MARKETING STRATEGY
+Campaign: Stocked. Sourced. Connected.
+Prepared for MGMT 3450 Team 2. Unpublished class-project proposal.
+
+PURPOSE
+Generate interest from two distinct audiences: business customers who need aerospace parts sourcing, and potential investors or strategic partners researching an established aerospace supply business. Each audience gets its own message, destination, and success measure. In this plan, consumers means business purchasers, not the general public.
+
+POSITIONING
+A family-owned aerospace parts sourcing and supply business with an operating history since 1999. The campaign emphasizes useful sourcing conversations, public evidence of an operating business, and a clear next step. Its purpose is interest and qualified conversations; results cannot be guaranteed.
+
+CAMPAIGN 1 — CUSTOMER ACQUISITION
+Audience hypothesis: U.S. aviation maintenance and repair businesses, parts distributors, and aerospace procurement teams. Suggested role families are purchasing, procurement, supply chain, and operations. Ask SAIF which customers and requirements fit its inventory before finalizing targeting. Validate available industry, title, company, and geography filters in Campaign Manager; do not assume exact filter labels.
+Message: Hard-to-find parts. Start with SAIF.
+Objective: Website visits for the initial test. Track completed quote inquiries as the business outcome; move toward website conversions once reliable event tracking and adequate data exist.
+Offer: A sourcing conversation about the buyer's part number and requirements.
+Journey: Ad -> existing website contact section -> completed parts inquiry -> company follow-up -> quote when applicable.
+Native CTA: Learn More. This is a supported LinkedIn single-image CTA. The website's next action is a quote request.
+Primary KPI: Qualified sourcing inquiries, not followers or likes.
+Qualification: Relevant company; part number and quantity; usable business contact; a requirement that SAIF can assess. SAIF decides fit and availability.
+
+CAMPAIGN 2 — INVESTOR / STRATEGIC-PARTNER AWARENESS
+Audience hypothesis: U.S. aerospace and industrial strategic partners, corporate development teams, and investment professionals with a relevant sector focus. Research a short list of suitable firms. Validate available company and role filters instead of targeting everyone with finance in their profile.
+Message: Aerospace supply. Built on experience.
+Objective: Website visits to company information.
+Offer: Learn about the existing business, its history, capabilities, and operating footprint.
+Journey: Ad -> website company overview -> direct conversation requested through SAIF's existing contact route.
+Primary KPI: Qualified investor or partnership conversations. Profile visits and engagement are supporting signals.
+This is a company-awareness concept. No fundraising round, financial forecast, valuation, securities offering, or investment return is asserted. If fundraising is later desired, SAIF first needs to define that objective and substantiate the relevant business information.
+
+CREATIVE IMPLEMENTATION
+Two separate Sponsored Content single-image concepts. Customer image: naturally lit conceptual aerospace components; AI generation is disclosed. Investor image: the actual facility photograph from SAIF's website, cropped without generating or altering the facility. Forest green #196633, warm white, readable typography, one idea and one CTA per ad.
+Square PNGs; LinkedIn recommends 1200 x 1200 for square ads, with supported sizes from 360 x 360 to 4320 x 4320 and a 5 MB file-size recommendation. Actual delivered dimensions and sizes are recorded in verification.json.
+Each ad includes primary introductory text under 150 characters, a headline under 70 characters, an alternate copy variant, alt text, a destination, and UTM tracking parameters in campaign-data.json.
+The alternate copy keeps the same audience and image. These are within-audience copy tests. Comparing the customer campaign with the investor campaign is not an A/B test because their goals and audiences differ.
+
+30-DAY PILOT
+Days 1–7: Confirm business facts and intended investor/partner objective with SAIF; refine customer fit; prepare the Page, contact path, tracking, and response owner. Publish two useful organic company posts if this becomes an authorized live campaign. Establish a baseline. Review the two creative concepts internally.
+Days 8–14: Test the customer campaign. Begin with one primary creative to avoid fragmenting a small budget. Review audience relevance, destination clicks, completed inquiries, and how well the inquiries fit.
+Days 15–21: Test one customer copy alternate without changing the image or audience simultaneously. Run the investor/partner awareness concept separately only if SAIF wants that audience and has someone to handle those conversations.
+Days 22–30: Assess lead quality, follow-up, and costs. Keep, revise, or pause each audience based on its own objective. A small exploratory pilot does not establish statistical significance.
+
+ILLUSTRATIVE BUDGET — NO SPENDING AUTHORIZED OR PERFORMED
+$0: Present the strategy and mockups as the class deliverable; organic distribution is a possible first step for the company.
+Optional $900 total paid-media planning scenario: $600 customer test; $300 investor/partner awareness. This is a proposed spending cap, not a platform cost estimate or forecast. Configure live schedules and limits using the current account minimums. If the budget is too small for useful delivery, test audiences sequentially and prioritize customers. No account has been created and no ads have been published or purchased.
+
+MEASUREMENT AND DECISIONS
+Record impressions, link clicks, landing-page sessions, inquiries, qualified inquiries, meetings, quotes, and attributable spend by campaign. UTMs distinguish the two ads. Ask SAIF to record the source of conversations that arrive by email or phone; UTMs alone will not connect those offline outcomes.
+CTR = link clicks / impressions. Inquiry conversion rate = completed inquiries / attributable landing sessions. Cost per qualified inquiry = campaign spend / qualified inquiries; if the denominator is zero, report no qualified inquiries instead of a cost of zero.
+Compare each audience with its own baseline. High clicks but weak inquiries: inspect message-to-page fit and the contact process. Many irrelevant inquiries: refine audience and qualification. Relevant conversations: examine progression to quotes or meetings before increasing spend. Do not claim that engagement proves investment interest or revenue.
+
+GROUP RESPONSIBILITIES
+Research: Confirm buyer fit and company facts; identify relevant firms.
+Creative: Maintain brand consistency and manage the two images.
+Copy: Own the ad text, Page consistency, and destination messaging.
+Measurement: Maintain the tracker and explain results without inventing performance.
+
+EVIDENCE AND ASSUMPTIONS
+Company source: https://www.saifindustries.com/
+Real facility photo: https://www.saifindustries.com/saif-facility-clean.jpg
+The investor creative uses three website-reported facts: family-owned since 1999; 200,000+ unique parts; 44,000-square-foot facility. These are public company claims, not independently audited investment diligence.
+LinkedIn format and objectives: https://business.linkedin.com/advertise/ads/sponsored-content/single-image-ads
+LinkedIn image, text, and CTA specifications: https://business.linkedin.com/advertise/ads/sponsored-content/single-image-ads/specs
+LinkedIn targeting capabilities: https://business.linkedin.com/advertise/ads/targeting
+Audience choices, budget, cadence, and proposed decision rules are this project's recommendations, not platform promises. Reviewed November 24, 2026.
